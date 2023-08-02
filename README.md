@@ -17,6 +17,6 @@ JavaScript
 
 
 Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/shivanisakshichaturvedii/Content-Management-Tool.git
 Open the project folder in your preferred code editor.
 Open the content-management-tool.html file in a web browser.

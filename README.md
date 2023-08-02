@@ -18,9 +18,7 @@ It allows users to manage and publish contents easily. It allows users to add te
 Tech Stack Used
 
 HTML
-
 CSS
-
 JavaScript
 
 
